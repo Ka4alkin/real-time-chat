@@ -1,0 +1,19 @@
+.LongPulling{
+  .bd-example{
+    padding: 10px;
+    //border: 2px solid #d6dbe0;
+    margin-top: 20px;
+    border-radius: 5px;
+  }
+  table{
+    margin-bottom: 0px;
+  }
+  td{
+    border-radius: 5px;
+    border-bottom-width: 0px;
+  }
+  .messages{
+    border: 2px solid red;
+    height: 20px;
+  }
+}
